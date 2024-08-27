@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Thompson",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Engaging lectures and clear explanations. Challenging assignments, but very rewarding."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor! Makes complex topics easy to understand. Always available for extra help."
+    },
+    {
+      "professor": "Dr. Sarah Johnson",
+      "subject": "Biology",
+      "stars": 3,
+      "review": "Knowledgeable, but sometimes rushes through material. Lab sessions could be better organized."
+    },
+    {
+      "professor": "Prof. Robert Davis",
+      "subject": "History",
+      "stars": 4,
+      "review": "Passionate about the subject. Assignments encourage critical thinking. Could improve on feedback timeliness."
+    },
+    {
+      "professor": "Dr. Maria Rodriguez",
+      "subject": "Psychology",
+      "stars": 5,
+      "review": "Exceptional teacher! Brings real-world examples into lectures. Fair grading and helpful office hours."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "Mathematics",
+      "stars": 2,
+      "review": "Difficult to follow in class. Doesn't explain concepts well. Homework is much harder than lecture material."
+    },
+    {
+      "professor": "Dr. Lisa Brown",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Insightful discussions in class. Encourages diverse interpretations. Sometimes assigns too much reading."
+    },
+    {
+      "professor": "Prof. David Lee",
+      "subject": "Economics",
+      "stars": 3,
+      "review": "Lectures are informative but dry. Good at explaining complex theories. Could use more real-world applications."
+    },
+    {
+      "professor": "Dr. Jennifer Taylor",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Amazing professor! Makes chemistry fun and accessible. Great lab experiments and clear instructions."
+    },
+    {
+      "professor": "Prof. Thomas Anderson",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Thought-provoking lectures. Encourages class participation. Sometimes goes off-topic, but always interesting."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Environmental Science",
+      "stars": 3,
+      "review": "Passionate about the subject. Field trips are great, but lectures can be disorganized."
+    },
+    {
+      "professor": "Prof. William Turner",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Extremely knowledgeable and engaging. Makes art come alive. Assignments are creative and fun."
+    },
+    {
+      "professor": "Dr. Karen White",
+      "subject": "Sociology",
+      "stars": 4,
+      "review": "Stimulating discussions on current events. Fair grader. Could provide more structure in group projects."
+    },
+    {
+      "professor": "Prof. Richard Brown",
+      "subject": "Political Science",
+      "stars": 2,
+      "review": "Seems biased in lectures. Doesn't encourage diverse viewpoints. Grading criteria are unclear."
+    },
+    {
+      "professor": "Dr. Laura Martinez",
+      "subject": "Linguistics",
+      "stars": 5,
+      "review": "Fantastic teacher! Makes complex language concepts accessible. Great at fostering class discussions."
+    },
+    {
+      "professor": "Prof. Daniel Kim",
+      "subject": "Business Administration",
+      "stars": 3,
+      "review": "Good practical knowledge, but lectures can be monotonous. Case studies are helpful."
+    },
+    {
+      "professor": "Dr. Elizabeth Clark",
+      "subject": "Anthropology",
+      "stars": 4,
+      "review": "Fascinating course content. Assignments are challenging but fair. Sometimes speaks too quickly."
+    },
+    {
+      "professor": "Prof. Christopher Wright",
+      "subject": "Mechanical Engineering",
+      "stars": 5,
+      "review": "Excellent at explaining complex concepts. Very helpful during office hours. Challenging but fair exams."
+    },
+    {
+      "professor": "Dr. Olivia Patel",
+      "subject": "Neuroscience",
+      "stars": 3,
+      "review": "Clearly knows the material well, but can be condescending to students. Interesting lab work."
+    },
+    {
+      "professor": "Prof. Andrew Nelson",
+      "subject": "Music Theory",
+      "stars": 4,
+      "review": "Passionate and knowledgeable. Assignments are creative. Could provide more individual feedback."
+    }
+  ]
+}
